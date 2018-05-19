@@ -64,5 +64,6 @@ Sudoku description and problem provide web pages.
 
 Less cleaner Julia version is made.
 
-I find another Julia version.
+On Julia, I find another one.
 > https://github.com/johnmyleswhite/sudoku.jl
+> https://github.com/montgow/sudoku-julia
