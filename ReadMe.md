@@ -63,4 +63,6 @@ Sudoku description and problem provide web pages.
 ## Appendix
 
 Less cleaner Julia version is made.
-If anyone want to see the not smart code, please let me know.
+
+I find another Julia version.
+> https://github.com/johnmyleswhite/sudoku.jl
