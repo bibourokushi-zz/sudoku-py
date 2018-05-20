@@ -14,10 +14,6 @@ Simple python2 or python3 install need.
 
 Just git clone only.
 
-```
-$ python sudoku.py
-```
-
 ## Running the tests
 
 No test at all. Simple test examples are in source.
